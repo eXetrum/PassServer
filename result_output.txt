@@ -1,0 +1,305 @@
+Enter preferred hash table capacity: 7
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username: Enter password: User toh added.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username: Enter password: User charles added.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username: Enter password: User frank added.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username: Enter password: User megan added.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username: Enter password: User burt added.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username: Enter password: User sandy added.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : v[0]: 
+v[1]: megan YKQLcycX64zFmkoNneToF.
+v[2]: charles G2fXc7JwBDOoyToJiL2UT0:burt dKFkCEgpgAHdtD3V9OphQ.
+v[3]: frank c0ywW1rO.FsCkp18y24XI.
+v[4]: toh JOChpfZDz9DePzkWcuYkT0
+v[5]: 
+v[6]: sandy oF1YBkqbC7NTEXAhk0eLW.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username    : *****Error: User not found.  Could not delete user
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username    : User sandy deleted.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : v[0]: 
+v[1]: megan YKQLcycX64zFmkoNneToF.
+v[2]: charles G2fXc7JwBDOoyToJiL2UT0:burt dKFkCEgpgAHdtD3V9OphQ.
+v[3]: frank c0ywW1rO.FsCkp18y24XI.
+v[4]: toh JOChpfZDz9DePzkWcuYkT0
+v[5]: 
+v[6]: 
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username: Enter password: User sandy added.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username: Enter password: User sandy added.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username    : Enter password    : 
+Enter new password: Password changed for user sandy
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username    : Enter password    : 
+Enter new password: *****Error: Could not change user password
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username    :User 'matt' not found.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username    :User 'frank' found.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Size of hashtable: 6
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter username    : User frank deleted.
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Size of hashtable: 5
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : v[0]: 
+v[1]: megan YKQLcycX64zFmkoNneToF.
+v[2]: charles G2fXc7JwBDOoyToJiL2UT0:burt dKFkCEgpgAHdtD3V9OphQ.
+v[3]: 
+v[4]: toh JOChpfZDz9DePzkWcuYkT0
+v[5]: 
+v[6]: sandy L1eLy135YkuOZxKJkgl1f1
+
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : Enter password file name to write to: 
+
+l - Load From File
+a - Add User
+r - Remove User
+c - Change User Password
+f - Find User
+d - Dump HashTable
+s - HashTable Size
+w - Write to Password File
+x - Exit program
+
+Enter choice : 
